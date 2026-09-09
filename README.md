@@ -237,3 +237,6 @@ This repository serves as the official landing page for PC Viewer. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PC Viewer today!**
+
+---
+**Last updated:** 2026-09-09 16:56:44 UTC
